@@ -60,7 +60,6 @@ Designing secure, reproducible training environments using **Docker**, **Kali Li
 
 - **Higher Education:** 10+ years in IT & Cybersecurity Instruction, focusing on hands-on lab architecture and security awareness.
 - **Operations:** Extensive experience in Student Services, Data Governance, and CRM management (Salesforce).
-- **Military:** Former U.S. Army Staff Sergeant with expertise in cryptography, comms security, and technical leadership.
 
 *Full resume available upon request.*
 
