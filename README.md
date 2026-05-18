@@ -10,8 +10,7 @@
 
 ### 1. Network Security Tool Walkthrough (Nmap, Nessus, Metasploit)
 **[Watch Demo ↗](https://www.loom.com/share/bcf117d7eac94d1ebc52cbdaf8b60f38)**  
-A  20-minute deep dive into a controlled lab environment. Demonstrates the full attack lifecycle and defensive response, covering network enumeration with **Nmap**, vulnerability scanning via **Nessus**, and exploit validation using **Metasploit**, alongside **pfSense** firewall configuration.
-
+A  20-minute dive into a controlled lab environment. Demonstrates basic network enumeration with **Nmap**, vulnerability scanning via **Nessus**, and exploit validation using **Metasploit**.
 ### 2. Forwarding Logs from pfSense to Splunk (SIEM Integration)
 **[Watch Demo ↗](https://www.loom.com/share/95ef127e94434c6c895bd67559f15c93)**  
 Part of an instructional lab for cybersecurity analysis students. This walkthrough covers the full SIEM pipeline: configuring Splunk indices and UDP inputs, setting up remote syslog forwarding from pfSense, managing DHCP static leases, and troubleshooting ARP cache conflicts to ensure reliable log ingestion. Demonstrates practical skills in **Splunk**, **Syslog**, and **Network Diagnostics**.
@@ -28,7 +27,7 @@ An analysis of student essay data from cybersecurity courses, mapping the cognit
 
 ### AI-Integrated Teaching: Applying Bain's Framework
 **[View Presentation ↗](https://gamma.app/docs/Can-AI-Help-Us-Do-What-the-Best-Teachers-Do-lq4dip4njeqxhy7)**  
-A strategic evaluation of Generative AI tools through the lens of Ken Bain's seminal work, *What the Best College Teachers Do*. This presentation outlines a framework for leveraging AI to enhance critical thinking, personalize feedback, and foster deep learning without compromising academic integrity or student autonomy.
+An evaluation of Generative AI tools through the lens of Ken Bain's seminal work, *What the Best College Teachers Do*. This presentation outlines a framework for leveraging AI to enhance critical thinking, personalize feedback, and foster deep learning without compromising academic integrity or student autonomy.
 
 ---
 
