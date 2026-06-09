@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-🛡️ **CompTIA Sec+, Net+, CySA+ (Pending) | M.S. InfoSec | MBA**  
+🛡️ **CompTIA Sec+, Net+, CySA+ | M.S. InfoSec | MBA**  
 *Cybersecurity Analyst | Higher Ed Educator | Security Governance Specialist*
 
 ---
